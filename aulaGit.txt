@@ -1,1 +1,20 @@
 Aprendendo Git.
+
+
+Comandos git
+
+git init // inicializa o repositorio aulaGit
+
+git add aulaGit.txt // adiciona o arquivo aulaGit.txt no repositorio aulaGit
+
+git status // Verifica o ststus do arquivo se ja foi commitado ou não
+
+git add aulaGit.txt // adiciona as alterações no arquivo aulaGit.txt
+
+git commit -m "criei o aquivo aulaGit e escrevi Aprendendo Git" // confirma as alterações editadas no arquivop aulaGit.txt
+
+git log  // Apresenta o numero do commit e os dados do autor e data daas alterações
+
+git remote add origin https://github.com/Serapavi/aulaGit.git  // subindo arquivo
+
+git push -u origin master  //
